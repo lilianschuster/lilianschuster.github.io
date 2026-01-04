@@ -9,7 +9,7 @@ profile:
   image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Interested in glacier modelling, climate change science & sustainability<p/>
+     <p>Interested in climate change science, glacier modelling & sustainability<p/>
      <p>I like spending time in the mountains!<p/>
 
 news: False # includes a list of news items
@@ -25,7 +25,7 @@ For my PhD, I was working with the [Open Global Glacier Model (OGGM)](https://og
 
 I am an active part of the [OGGM community](https://community.oggm.org/roles.html) and the Glacier Model Intercomparison Project Phase 3 ([GlacierMIP3](https://github.com/GlacierMIP/GlacierMIP3)), and I was part of an interdisciplinary project on climate change impact research ([PROVIDE EU H2020](https://www.provide-h2020.eu/) project). I like to engage in climate and glacier change communication projects. These include [workshops and excursions to glaciers](https://oggm.org/2021/10/04/erasmus-project-obergurgl/), glacier projection visualizations for reports (e.g. *State of the Cryosphere* [2023](https://iccinet.org/statecryo23/) and [2024](https://iccinet.org/statecryo24/) reports), and the ["Goodbye Glaciers"](https://goodbye-glaciers.info/) initiative — a hiking signpost project and website about future glacier loss, with a focus on Central Europe.  
 
-I am currently looking for a postDOC position or any other scientific position starting in autumn/winter 2025. It would be great to stay near mountains! I am also open to developing a small postdoc proposal that aligns with your research group and my research interests.  
+I am currently looking for a PostDoc position or any other scientific position starting. It would be great to stay near the mountains!
 
 
 ### Education & previous research
