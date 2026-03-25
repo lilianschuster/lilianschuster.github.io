@@ -19,13 +19,6 @@ social: True # includes social icons at the bottom of the page
 ### About me
 I am currently looking for a PostDoc position or any other position that includes sustainable interdisciplinary data analysis, visualisation, and interpretation. It would be great to stay near the mountains! 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ '/assets/img/signal-2026-03-25-121336.jpg' | relative_url }}" 
-             title="On my way to the mountains" 
-             class="img-fluid rounded z-depth-1">
-    </div>
-</div>
 I have been a postdoctoral researcher at the [Department of Atmospheric and Cryospheric Sciences (ACINN)](https://www.uibk.ac.at/en/acinn/), Universität Innsbruck. For my PhD, I was working with the [Open Global Glacier Model (OGGM)](https://oggm.org/) on the topic of [*"Improving our understanding of future multi-century mountain glacier changes and runoff"*](https://bibsearch.uibk.ac.at/AC17484340), supervised by [Fabien Maussion](https://fabienmaussion.info/) and [David Rounce](https://www.cmu.edu/cee/cryotartans/people/david-rounce.html). I worked on both large-scale mountain glacier mass-balance model calibration and projection uncertainties, as well as on more public and policy-relevant multi-century glacier mass and runoff projections. A selection of my most important preprints and publications is provided below. A complete list of contributions is available under [publications and preprints]({{ site.baseurl }}/publications/).
 
 
