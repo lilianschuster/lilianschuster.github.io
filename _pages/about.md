@@ -27,6 +27,14 @@ I am an active part of the [OGGM community](https://community.oggm.org/roles.htm
 
 I am currently looking for a PostDoc position or any other position that includes sustainable interdisciplinary data analysis, visualisation, and interpretation. It would be great to stay near the mountains! 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/signal-2026-03-25-121336.jpg" title="On my way to the mountains" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Combining my passion for data with my love for sustainable mobility: usually on my way to the next workshop or mountain adventure.
+</div>
 
 ### Education & previous research
 I hold a [M.Sc.](https://www.uibk.ac.at/en/programmes/ma-atmospheric-sciences) and [PhD](https://www.uibk.ac.at/en/programmes/phd-atmospheric-sciences/2009w/) in Atmospheric Sciences with a focus on Climate and Glacier Modelling from the Universität Innsbruck, Austria. My Master's thesis topic was the [Response time sensitivity of glaciers using the open global glacier model: from idealised experiments to an estimate for alpine glaciers](https://resolver.obvsg.at/urn:nbn:at:at-ubi:1-59629), supervised by [Fabien Maussion](https://fabienmaussion.info/). During my Master's studies, I also worked as a student research assistant on the climatology of precipitation and moisture sources over an arid region in Northeast Greenland as part of the [Northeast Greenland Caves Project](https://northeastgreenlandcavesproject.com/), led by Gina Moseley, which resulted in a [publication (Schuster et al., 2021)](https://doi.org/10.5194/wcd-2-1-2021).  
