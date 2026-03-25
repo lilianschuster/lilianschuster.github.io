@@ -17,24 +17,20 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: True # includes social icons at the bottom of the page
 ---
 ### About me
-
-I am a postdoctoral researcher at the [Department of Atmospheric and Cryospheric Sciences (ACINN)](https://www.uibk.ac.at/en/acinn/), Universität Innsbruck. 
-
-For my PhD, I was working with the [Open Global Glacier Model (OGGM)](https://oggm.org/) on the topic of [*"Improving our understanding of future multi-century mountain glacier changes and runoff"*](https://bibsearch.uibk.ac.at/AC17484340), supervised by [Fabien Maussion](https://fabienmaussion.info/) and [David Rounce](https://www.cmu.edu/cee/cryotartans/people/david-rounce.html). I worked on both large-scale mountain glacier mass-balance model calibration and projection uncertainties, as well as on more public and policy-relevant multi-century glacier mass and runoff projections. A selection of my most important preprints and publications is provided below. A complete list of contributions is available under [publications and preprints]({{ site.baseurl }}/publications/).
-
-
-I am an active part of the [OGGM community](https://community.oggm.org/roles.html) and the Glacier Model Intercomparison Project Phase 3 ([GlacierMIP3](https://github.com/GlacierMIP/GlacierMIP3)), and I was part of an interdisciplinary project on climate change impact research ([PROVIDE EU H2020](https://www.provide-h2020.eu/) project). I like to engage in climate and glacier change communication projects. These include [workshops and excursions to glaciers](https://oggm.org/2021/10/04/erasmus-project-obergurgl/), glacier projection visualizations for reports (e.g. *State of the Cryosphere* [2023](https://iccinet.org/statecryo23/) and [2024](https://iccinet.org/statecryo24/) reports), and the ["Goodbye Glaciers"](https://goodbye-glaciers.info/) initiative — a hiking signpost project and website about future glacier loss, with a focus on Central Europe.  
-
 I am currently looking for a PostDoc position or any other position that includes sustainable interdisciplinary data analysis, visualisation, and interpretation. It would be great to stay near the mountains! 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/signal-2026-03-25-121336.jpg" title="On my way to the mountains" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/signal-2026-03-25-121336.jpg' | relative_url }}" 
+             title="On my way to the mountains" 
+             class="img-fluid rounded z-depth-1">
     </div>
 </div>
-<div class="caption">
-    Combining my passion for data with my love for sustainable mobility: usually on my way to the next workshop or mountain adventure.
-</div>
+I have been a postdoctoral researcher at the [Department of Atmospheric and Cryospheric Sciences (ACINN)](https://www.uibk.ac.at/en/acinn/), Universität Innsbruck. For my PhD, I was working with the [Open Global Glacier Model (OGGM)](https://oggm.org/) on the topic of [*"Improving our understanding of future multi-century mountain glacier changes and runoff"*](https://bibsearch.uibk.ac.at/AC17484340), supervised by [Fabien Maussion](https://fabienmaussion.info/) and [David Rounce](https://www.cmu.edu/cee/cryotartans/people/david-rounce.html). I worked on both large-scale mountain glacier mass-balance model calibration and projection uncertainties, as well as on more public and policy-relevant multi-century glacier mass and runoff projections. A selection of my most important preprints and publications is provided below. A complete list of contributions is available under [publications and preprints]({{ site.baseurl }}/publications/).
+
+
+I am an active part of the [OGGM community](https://community.oggm.org/roles.html) and the Glacier Model Intercomparison Project Phase 3 ([GlacierMIP3](https://github.com/GlacierMIP/GlacierMIP3)), and I was part of an interdisciplinary project on climate change impact research ([PROVIDE EU H2020](https://www.provide-h2020.eu/) project). I like to engage in climate and glacier change communication projects. These include [workshops and excursions to glaciers](https://oggm.org/2021/10/04/erasmus-project-obergurgl/), glacier projection visualizations for reports (e.g. *State of the Cryosphere* [2023](https://iccinet.org/statecryo23/) and [2024](https://iccinet.org/statecryo24/) reports), and the ["Goodbye Glaciers"](https://goodbye-glaciers.info/) initiative — a hiking signpost project and website about future glacier loss, with a focus on Central Europe.  
+
 
 ### Education & previous research
 I hold a [M.Sc.](https://www.uibk.ac.at/en/programmes/ma-atmospheric-sciences) and [PhD](https://www.uibk.ac.at/en/programmes/phd-atmospheric-sciences/2009w/) in Atmospheric Sciences with a focus on Climate and Glacier Modelling from the Universität Innsbruck, Austria. My Master's thesis topic was the [Response time sensitivity of glaciers using the open global glacier model: from idealised experiments to an estimate for alpine glaciers](https://resolver.obvsg.at/urn:nbn:at:at-ubi:1-59629), supervised by [Fabien Maussion](https://fabienmaussion.info/). During my Master's studies, I also worked as a student research assistant on the climatology of precipitation and moisture sources over an arid region in Northeast Greenland as part of the [Northeast Greenland Caves Project](https://northeastgreenlandcavesproject.com/), led by Gina Moseley, which resulted in a [publication (Schuster et al., 2021)](https://doi.org/10.5194/wcd-2-1-2021).  
